@@ -1,5 +1,7 @@
 # Hello, I'm Gabe!
-<a href="[https://linkedin.com](https://www.linkedin.com/in/gabrielogando/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gabrielogando/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I help over a hundred small businesses become resilient to cyber-attacks through active security posture hardening.
 ## Objective
